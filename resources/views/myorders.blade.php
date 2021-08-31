@@ -297,10 +297,10 @@ $carousel=Carousel::all();
             </a>
           </div>
           <div class="col-md-4">
-            <a href="">
+            <a href="callto: +9779860478370">
               <img src="images/call.png" alt="">
               <span>
-                Call : +012334567890
+                Call : Shubhankar
               </span>
             </a>
           </div>

@@ -164,9 +164,7 @@ $user = auth()->user();
           <h2>
            Currently Booked/Deleverying 
           </h2>
-          <p>
-            There are many variations of passages of Lorem Ipsum available
-          </p>
+          
         </div>
         <div class="container-fluid">
             <div class="row">
@@ -204,7 +202,7 @@ $user = auth()->user();
       Available Tankers
     </h2>
     <p>
-      There are many variations of passages of Lorem Ipsum available
+     
     </p>
   </div></div></div></section>
   <!-- end about section -->
@@ -255,8 +253,7 @@ $user = auth()->user();
                       </h2>
                     </div>
                     <p>
-                      There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration in some form, by injected humour
-                    </p>
+                        </p>
                     <a href="/about_us">
                       Read More
                     </a>

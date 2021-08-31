@@ -175,19 +175,19 @@
                                 <ul style="margin-bottom:20px">
                                     <li class="address">
                                         <span class="icon"><i class="fa fa-map-marker"></i></span>
-                                        <p>Address : No 100 Baria Sreet 100/2  Jaipur City, IN.</p>
+                                        <p>Address : Mahalaxmi-5 Sreet 100/2  Lalitpur, NEP.</p>
                                     </li>
                                     <li class="phone">
                                         <span class="icon"><i class="fa fa-phone"></i></span>
-                                        <p><a href="#">+91 7568 54 3012</a></p>
+                                        <p><a href="#">+977 9860478370</a></p>
                                     </li>
                                     <li class="fax">
                                         <span class="icon"><i class="fa fa-fax"></i></span>
-                                        <p><a href="#">+91 7568 54 3012</a></p>
+                                        <p><a href="#">+977 9810312720</a></p>
                                     </li>
                                     <li class="email">
                                         <span class="icon"><i class="fa fa-envelope-o"></i></span>
-                                        <p><a href="#">dkstudioin@gmail.com</a></p>
+                                        <p><a href="#">shubhankar@myktm.ml</a></p>
                                     </li>
                                 </ul>
                             </div>
